@@ -1,2 +1,3 @@
-# Test
-테스트 업로드용
+# Stopwatch
+- making stop watch function
+- using methods : setInterval(), clearInterval()
